@@ -1,4 +1,4 @@
-[![@Shreyakr21's Holopin board](https://holopin.me/Shreyakr21)](https://holopin.io/@Shreyakr21)
+[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
 <h1 align="center">Hi 👋, I'm Shreya Kumari</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -11,15 +11,15 @@
 ###
 - 🔭 I’m currently working on **Backend**
   
-- 🌱 I’m currently learning **Dart, Spring AI, Flutter**
+- 🌱 I’m currently learning ** Dart, Flutter, Spring AI**
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **shreyakumari04311@gmail.com**
+- 📫 How to reach me **abhinendrayadav3@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/shreya-kumari-b42bbb342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreya-kumari-b42bbb342" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-kumari-b42bbb342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreya-kumari-b42bbb342" height="30" width="40" /></a>
 <a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
 </p> 
 
